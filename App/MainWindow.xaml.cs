@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace App
+namespace AssemblyBrowser
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

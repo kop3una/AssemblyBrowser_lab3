@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace App
+namespace AppAssemblyBrowser
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
