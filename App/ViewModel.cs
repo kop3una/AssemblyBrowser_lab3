@@ -1,21 +1,24 @@
 ﻿using System.ComponentModel;
 using System.Windows.Input;
 using System.Windows.Forms;
+using Lib;
+using System.Collections.Generic;
+using System;
 
 namespace AssemblyBrowser
 {
     public class ViewModel : INotifyPropertyChanged
     {
 
-        //private readonly IAssemblyBrowser _model = new AssemblyBrowserLib.AssemblyBrowser();
+       private readonly IAssemblyBrowser _model = new Lib.AssemblyBrowser();
         private string _openedFile;
 
         public ViewModel()
         {
-  //          Containers = new List<ContainerInfo>();
+           Containers = new List<ContainerInfo>();
         }
 
-  //      public List<ContainerInfo> Containers { get; set; }
+        public List<ContainerInfo> Containers { get; set; }
 
         public string OpenedFile
         {
@@ -26,16 +29,16 @@ namespace AssemblyBrowser
             set
             {
                 _openedFile = value;
-           //     Containers = null;
-         //       try
-        //        {
-        //            Containers = new List<ContainerInfo>(_model.GetNamespaces(value));
-        //        }
-        //        catch (Exception e)
-       //         {
-       //             _openedFile = $"Error: [{e.Message}]";
-       //         }
-        //        OnPropertyChanged(nameof(Containers));
+                Containers = null;
+               try
+                {
+                    Containers = new List<ContainerInfo>(_model.GetNamespaces(value));
+                }
+                catch (Exception e)
+                {
+                    _openedFile = $"Error: [{e.Message}]";
+                }
+                OnPropertyChanged(nameof(Containers));
             }
         }
 

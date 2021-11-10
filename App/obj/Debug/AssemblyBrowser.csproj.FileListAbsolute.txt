@@ -13,3 +13,7 @@ C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab
 C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
 C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\obj\Debug\AssemblyBrowser.exe
 C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\obj\Debug\AssemblyBrowser.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\bin\Debug\Lib.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\bin\Debug\Lib.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab3\App\obj\Debug\AssemblyBrowser.csproj.CopyComplete
