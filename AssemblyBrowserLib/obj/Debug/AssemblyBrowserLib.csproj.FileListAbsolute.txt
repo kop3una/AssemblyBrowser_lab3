@@ -1,0 +1,6 @@
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.dll
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\bin\Debug\AssemblyBrowserLib.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.dll
+C:\Users\kiril\OneDrive\Рабочий стол\AssemblyBrowser-master\AssemblyBrowserLib\obj\Debug\AssemblyBrowserLib.pdb
